@@ -2,7 +2,3 @@
     background-color: blue;
     color: red;
 }
-td[id*="prueba"]:hover {
-    background-color: blue;
-    color: red;
-}
